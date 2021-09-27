@@ -1,8 +1,14 @@
 # ClassificadorCancerPele
 
 Trabalaho desenvolvido para a conclusão da graduação em Biomedicina com enfase em informática de saúde pela Universidade Positivo 2021.
+
+
 **Autores**
--Guilherme Cardoso VARGAS
+
+
+-Guilherme Cardoso 
+
+
 -Patrícia Ferreira VIEIRA
 
 ## Resumo
